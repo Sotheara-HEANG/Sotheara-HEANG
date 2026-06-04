@@ -1,12 +1,13 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a> Sotheara </a> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lpa3gyenRsZ2VrbDZmdTNyY2V6dTQwM3lta28zczNjeDV2dDQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm </b><a> Sotheara </a> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lpa3gyenRsZ2VrbDZmdTNyY2V6dTQwM3lta28szszNjeDV2dDQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS" width="100" height="100" />
+</h1>
 <br>
 
  ***About me:***
 
-I am a **Data Science** student, currently a third-year student in deparment of Applied Mathematics and Statistics ***(AMS)*** from Institute of Technology of cambodia, I'm expanding my knowledge in both Data Science and ML/AI.
+I am a **Data Science** student, currently a third-year student in deparment of Applied Mathematics and Statistics ***(AMS)*** from Institute of Technology of cambodia, I'm expanding my knowledge in big data and machine learning.
 
-I’m currently learning...
+I'm currently learning...
   - *Data science and Machine Learning*
   - *Applied Mathematics (Numerical Analysis, Optimization and Statistic)*
 
@@ -14,7 +15,7 @@ Feel free to ask me anything!
 <br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sotheara_heang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thearah168@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sotheara_heang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sotheara.heang@gmail.com)
 
 </div>
 <br>
@@ -51,7 +52,11 @@ Feel free to ask me anything!
 <br>
 <br>
 
-<p align="center"><a href="https://github.com/Sotheara-HEANG" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" /></a></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chromium/chromium/main/chrome/common/extensions/docs/examples/tutorials/geturl/dino.png" width="200" alt="Dinosaur Game">
+  <br>
+  <a href="https://chromedino.com/" target="_blank">🎮 Play the Classic Dinosaur Game</a>
+</p>
 
 <img alt="Theara view count" width="20%" src="https://komarev.com/ghpvc/?username=Sotheara-HEANG&color=ff69b4&style=for-the-badge" />
 <br>
