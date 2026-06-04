@@ -6,11 +6,11 @@
 
 I am a **Data Science** student, currently a third-year student in deparment of Applied Mathematics and Statistics ***(AMS)*** from Institute of Technology of cambodia, I'm expanding my knowledge in both Data Science and ML/AI.
 
-📚 I’m currently learning...
+I’m currently learning...
   - *Data science and Machine Learning*
   - *Applied Mathematics (Numerical Analysis, Optimization and Statistic)*
 
-✔ Feel free to ask me anything!
+Feel free to ask me anything!
 <br>
 
 ## 🌐 Socials:
@@ -54,4 +54,6 @@ I am a **Data Science** student, currently a third-year student in deparment of 
 <p align="center"><a href="https://github.com/Sotheara-HEANG" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" /></a></p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width=100%">
+
+<img alt="Theara view count" width="20%" src="https://komarev.com/ghpvc/?username=Sotheara-HEANG&color=ff69b4&style=for-the-badge" />
 <br>
