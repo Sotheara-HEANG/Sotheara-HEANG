@@ -33,6 +33,8 @@ As a senior Undergraduate in Applied Mathematics and Statistics (AMS) at the Ins
   <img src="https://raw.githubusercontent.com/Sotheara-HEANG/Sotheara-HEANG/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
+---
+
 <br clear="both">
 
 <picture>
@@ -40,4 +42,5 @@ As a senior Undergraduate in Applied Mathematics and Statistics (AMS) at the Ins
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sotheara-HEANG/Sotheara-HEANG/pacman-output/galaga-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sotheara-HEANG/Sotheara-HEANG/pacman-output/galaga-contribution-graph.svg">
 </picture>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
