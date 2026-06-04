@@ -53,9 +53,7 @@ Feel free to ask me anything!
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chromium/chromium/main/chrome/common/extensions/docs/examples/tutorials/geturl/dino.png" width="200" alt="Dinosaur Game">
-  <br>
-  <a href="https://chromedino.com/" target="_blank">🎮 Play the Classic Dinosaur Game</a>
+  <img src="https://media.giphy.com/media/L05QPFxqHHYdFewriM/giphy.gif" width="300" alt="Pixel Dinosaur">
 </p>
 
 <img alt="Theara view count" width="20%" src="https://komarev.com/ghpvc/?username=Sotheara-HEANG&color=ff69b4&style=for-the-badge" />
