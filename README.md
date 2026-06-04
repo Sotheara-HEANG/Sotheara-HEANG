@@ -49,8 +49,6 @@ Feel free to ask me anything!
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)&nbsp;
 
 <br>
-<br>
-
-
-
-<br>
+<p align="center">
+  <img src="Dino_game.gif" alt="Chrome Dino Game Automation" width="600">
+</p>
