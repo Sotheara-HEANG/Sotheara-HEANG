@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a> Sotheara </a> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lpa3gyenRsZ2VrbDZmdTNyY2V6dTQwM3lta28szszNjeDV2dDQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS" width="100" height="100" />
+<h1><b>Hi there, I'm </b><a> Sotheara </a> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lpa3gyenRsZ2VrbDZmdTNyY2V6dTQwM3lta28szszNjeDV2dDQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Z" width="100" height="100" />
 </h1>
 <br>
 
@@ -53,7 +53,7 @@ Feel free to ask me anything!
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L05QPFxqHHYdFewriM/giphy.gif" width="300" alt="Pixel Dinosaur">
+  <img src="https://64.media.tumblr.com/tumblr_m8nrfxlJ1a1rw3vb1.gif" width="400" alt="Pixel Dinosaur Game">
 </p>
 
 <img alt="Theara view count" width="20%" src="https://komarev.com/ghpvc/?username=Sotheara-HEANG&color=ff69b4&style=for-the-badge" />
