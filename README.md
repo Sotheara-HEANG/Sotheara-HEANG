@@ -17,16 +17,15 @@ As a senior Undergraduate in Applied Mathematics and Statistics (AMS) at the Ins
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sotheara.heang204@gmail.com)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD000.svg?logo=huggingface&logoColor=black)](https://huggingface.co/Sotheara204)
 
-
-</div>
-<br>
-
+---
 <h3 align="center">
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; 
 <i>Tech Skills</i> </h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,git,mysql,postgresql,sqlite,opencv&perline=9" />
 </p>
 
+---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
