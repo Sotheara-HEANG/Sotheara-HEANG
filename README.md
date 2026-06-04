@@ -1,16 +1,12 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a> Sotheara </a> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lpa3gyenRsZ2VrbDZmdTNyY2V6dTQwM3lta28zczNjeDV2dDQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="20"></h1>
+
+<h1 align="center"> Hi there, I'm Sotheara <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lpa3gyenRsZ2VrbDZmdTNyY2V6dTQwM3lta28zczNjeDV2dDQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="30"></h1>
 <br>
 
  ***About me:***
 
-I am a **Data Science** student, currently a third-year student in deparment of Applied Mathematics and Statistics ***(AMS)*** from Institute of Technology of cambodia, I'm expanding my knowledge in big data and machine learning.
+As a senior Undergraduate in Applied Mathematics and Statistics (AMS) at the Institute of Technology of Cambodia, My expertise bridges the gap between theoretical mathematics and scalable data solutions, with a strong focus on computer vision, predictive modeling, and data engineering lifecycles.
 
-I'm currently learning...
-  - *Data science and Machine Learning*
-  - *Applied Mathematics (Numerical Analysis, Optimization and Statistic)*
-
-Feel free to ask me anything!
 <br>
 
 ## 🌐 Socials:
@@ -23,28 +19,5 @@ Feel free to ask me anything!
 ***Tech Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-###### Languages & Syntax:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![LaTex](https://img.shields.io/badge/latex-3670A0?style=for-the-badge&logo=latex&logoColor=ffdd54)&nbsp;
-
-
-###### Backend & Frameworks:
-![Django](https://img.shields.io/badge/-django-%23Clojure?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-
-###### Machine Learning:
-![Numpy](https://img.shields.io/badge/numpy-%230db7ed.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Matplotlib](https://img.shields.io/badge/matplotlib-%46E3B7.svg?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;
-![Sklearn](https://img.shields.io/badge/-sklearn-%23Clojure?style=for-the-badge&logo=sklearn&logoColor=white)&nbsp;
-![TensorFlow](https://img.shields.io/badge/tensorflow-512BD4?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-%23E34F26.svg?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
-![Seaborn](https://img.shields.io/badge/seaborn-6DA55F?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;
-<!-- #### ML/DL -->
-
-###### Database Management:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-###### Development Environments:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)&nbsp;
+<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
