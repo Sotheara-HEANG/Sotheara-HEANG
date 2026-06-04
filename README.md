@@ -53,4 +53,4 @@ I am a **Data Science** student, currently a third-year student in deparment of 
 
 <p align="center"><a href="https://github.com/Sotheara-HEANG" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" /></a></p>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="50%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width=100%">
