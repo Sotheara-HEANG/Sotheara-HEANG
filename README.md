@@ -29,7 +29,6 @@ As a senior Undergraduate in Applied Mathematics and Statistics (AMS) at the Ins
 
 ---
 
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sotheara-HEANG/Sotheara-HEANG/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
