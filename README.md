@@ -53,7 +53,5 @@ Feel free to ask me anything!
 
 <p align="center"><a href="https://github.com/Sotheara-HEANG" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" /></a></p>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width=100%">
-
 <img alt="Theara view count" width="20%" src="https://komarev.com/ghpvc/?username=Sotheara-HEANG&color=ff69b4&style=for-the-badge" />
 <br>
