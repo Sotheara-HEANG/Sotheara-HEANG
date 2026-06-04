@@ -52,45 +52,6 @@ Feel free to ask me anything!
 <br>
 <br>
 
-<p align="center">
-  <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      @keyframes dino-run {
-        0%, 100% { transform: translateY(0px); }
-        50% { transform: translateY(-5px); }
-      }
-      .dino { animation: dino-run 0.6s infinite; }
-    </style>
-    <rect width="400" height="200" fill="#1a1a2e"/>
-    <!-- Ground -->
-    <line x1="0" y1="150" x2="400" y2="150" stroke="#fff" stroke-width="2"/>
-    <!-- Dinosaur body -->
-    <g class="dino">
-      <!-- Head -->
-      <rect x="80" y="100" width="30" height="25" fill="#90EE90"/>
-      <!-- Eye -->
-      <circle cx="95" cy="105" r="2" fill="#000"/>
-      <!-- Mouth -->
-      <line x1="110" y1="110" x2="120" y2="110" stroke="#000" stroke-width="1"/>
-      <!-- Neck -->
-      <rect x="105" y="120" width="8" height="15" fill="#90EE90"/>
-      <!-- Body -->
-      <rect x="100" y="135" width="60" height="20" fill="#90EE90"/>
-      <!-- Tail -->
-      <path d="M 160 140 Q 190 130 200 145" stroke="#90EE90" stroke-width="8" fill="none"/>
-      <!-- Front legs -->
-      <rect x="110" y="155" width="8" height="15" fill="#90EE90"/>
-      <rect x="125" y="155" width="8" height="15" fill="#90EE90"/>
-      <!-- Back legs -->
-      <rect x="145" y="155" width="8" height="15" fill="#90EE90"/>
-      <rect x="160" y="155" width="8" height="15" fill="#90EE90"/>
-    </g>
-    <!-- Clouds -->
-    <circle cx="320" cy="40" r="15" fill="#ddd" opacity="0.5"/>
-    <circle cx="340" cy="35" r="20" fill="#ddd" opacity="0.5"/>
-    <circle cx="360" cy="40" r="15" fill="#ddd" opacity="0.5"/>
-  </svg>
-</p>
 
-<img alt="Theara view count" width="20%" src="https://komarev.com/ghpvc/?username=Sotheara-HEANG&color=ff69b4&style=for-the-badge" />
+
 <br>
