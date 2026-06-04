@@ -53,7 +53,7 @@ Feel free to ask me anything!
 <br>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/tumblr_m8nrfxlJ1a1rw3vb1.gif" width="400" alt="Pixel Dinosaur Game">
+  <img src="https://media.giphy.com/media/jc7bKsVBSTqBN82LV9/giphy.gif" width="400" alt="Pixel Dinosaur Game">
 </p>
 
 <img alt="Theara view count" width="20%" src="https://komarev.com/ghpvc/?username=Sotheara-HEANG&color=ff69b4&style=for-the-badge" />
