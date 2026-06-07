@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Sotheara <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lpa3gyenRsZ2VrbDZmdTNyY2V6dTQwM3lta28zczNjeDV2dDQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="30"></h1>
 
 <p align="center">Senior Data Scientst Engineering student</p>
-<p align="center"><a href="your-portfolio-url">Portfolio</a> . <a href="mailto:sotheara.heang204@gmail.com">Email</a></p>
+<p align="center"><a href="(https://sotheara-heang.github.io/My-portfolio/)">Portfolio</a> . <a href="mailto:sotheara.heang204@gmail.com">Email</a></p>
 <br>
 
  ***About me:***
