@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Sotheara <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lpa3gyenRsZ2VrbDZmdTNyY2V6dTQwM3lta28zczNjeDV2dDQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="30"></h1>
 
 <p align="center">Senior Data Scientst Engineering student</p>
-<p align="center">Portfolio . Email</p>
+<p align="center"><a href="your-portfolio-url">Portfolio</a> . <a href="mailto:sotheara.heang204@gmail.com">Email</a></p>
 <br>
 
  ***About me:***
@@ -23,8 +23,25 @@ As a senior Undergraduate in Applied Mathematics and Statistics (AMS) at the Ins
 <i>Tech Skills</i> </h3>
 <br>
 
+<p align="center"><i>Language & Framework</i></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,git,mysql,postgresql,sqlite,opencv&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,sqlite,django&perline=5" />
+</p>
+<p align="center"><i>ML & AI</i></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" />
+</p>
+<p align="center"><i>DevOps</i></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github&perline=3" />
 </p>
 
 ---
