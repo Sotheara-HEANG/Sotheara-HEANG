@@ -12,12 +12,15 @@
  ***About me:***
 
 As a senior Undergraduate in Applied Mathematics and Statistics (AMS) at the Institute of Technology of Cambodia, My expertise bridges the gap between theoretical mathematics and scalable data solutions, with a strong focus on computer vision, predictive modeling, and data engineering lifecycles.
+
 <br>
 
-***Add me via:***
+***Download my resume:*** <a href=" ">Resume</a>
 
+<br>
+
+You canfind me more at:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sotheara_heang) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sotheara.heang204@gmail.com)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD000.svg?logo=huggingface&logoColor=black)](https://huggingface.co/Sotheara204)
 
 ---
