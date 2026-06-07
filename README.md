@@ -37,9 +37,6 @@ You canfind me more at:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
-
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" />
@@ -47,7 +44,7 @@ You canfind me more at:
 </p>
 <p align="center"><i>DevOps</i></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github&perline=3" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github&perline=3" />  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" />
 </p>
 
 ---
