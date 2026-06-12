@@ -15,11 +15,7 @@ As a senior Undergraduate in Applied Mathematics and Statistics (AMS) at the Ins
 
 <br>
 
-***Download my resume:*** <a href=" ">Resume</a>
-
-<br>
-
-You canfind me more at:
+You can find me more at:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sotheara_heang) 
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD000.svg?logo=huggingface&logoColor=black)](https://huggingface.co/Sotheara204)
 
