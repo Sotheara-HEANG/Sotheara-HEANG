@@ -1,8 +1,12 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1 align="center">Hi there, I'm Sotheara <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lpa3gyenRsZ2VrbDZmdTNyY2V6dTQwM3lta28zczNjeDV2dDQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="30"></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Alex+Brush&size=70&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=_Welcome+To+My+Space_" alt="Welcome To My Space">
+</p>
 
-<p align="center">Data Scientist Engineering student</p>
+<h1 align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lpa3gyenRsZ2VrbDZmdTNyY2V6dTQwM3lta28zczNjeDV2dDQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="30">Hey, I'm Sotheara. </h1>
+
+<p align="center">Data Science | Data Analysis | ML / AI</p>
 <p align="center">
   <a href="https://sotheara-heang.github.io/My-portfolio/">Portfolio</a> •
   <a href="mailto:sotheara.heang204@gmail.com">Email</a>
@@ -11,7 +15,7 @@
 
  ***About me:***
 
-As a senior Undergraduate in Applied Mathematics and Statistics (AMS) at the Institute of Technology of Cambodia, My expertise bridges the gap between theoretical mathematics and scalable data solutions, with a strong focus on computer vision, predictive modeling, and data engineering lifecycles.
+As a senior Undergraduate in Applied Mathematics and Statistics (AMS) at the Institute of Technology of Cambodia, My expertise bridges the gap between theoretical mathematics and scalable data solutions, with a strong focus on machine learning, computer vision, predictive modeling, and data engineering lifecycles.
 
 <br>
 
