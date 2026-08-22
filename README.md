@@ -1,7 +1,12 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Alex+Brush&size=70&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=_Welcome+To+My+Space_" alt="Welcome To My Space">
+</p>
+-->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Monotype+Corsiva&size=70&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=Welcome+To+My+Realm" alt="Welcome To My Realm">
 </p>
 
 <h1 align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lpa3gyenRsZ2VrbDZmdTNyY2V6dTQwM3lta28zczNjeDV2dDQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="30">Hey, I'm Sotheara. </h1>
