@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Monotype+Corsiva&size=70&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=Welcome+To+My+Realm" alt="Welcome To My Realm">
 </p>
 
-<h1 align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lpa3gyenRsZ2VrbDZmdTNyY2V6dTQwM3lta28zczNjeDV2dDQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="30"><img src="https://readme-typing-svg.demolab.com?font=Monotype+Corsiva&size=40&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=280&height=35&lines=Hey,+I'm+Xuu+Shi!" alt="Hey, This is Xuu Shi!">
+<h1 align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lpa3gyenRsZ2VrbDZmdTNyY2V6dTQwM3lta28zczNjeDV2dDQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="30"><img src="https://readme-typing-svg.demolab.com?font=Monotype+Corsiva&size=40&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=280&height=35&lines=Hey,+I'm+Sotheara!" alt="Hey, I'm Sotheara!">
 
   <img src="https://readme-typing-svg.demolab.com?font=Monotype+Corsiva&size=20&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=25&lines=Your+Fellow+Data+Scientist." alt="Your Fellow Data Scientist.">
 
